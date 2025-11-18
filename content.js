@@ -1,1 +1,1 @@
-console.log("Evangelion GitHub Theme content script loaded.");
+console.log("NervGit installed for this sesssion");
