@@ -1,4 +1,4 @@
-[./eva-title]
+(title)[./eva-title]
 
 # An Evangelion GitHub Theme (Firefox Extension)
 
