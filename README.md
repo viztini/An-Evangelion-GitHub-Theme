@@ -40,7 +40,7 @@ To install this theme as a temporary add-on in Firefox:
 The theme supports a custom background image. To add your own:
 
 1.  **Find Your Image:** Locate a direct URL for the image you wish to use (e.g., ending in `.png`, `.jpg`, `.gif`, etc.).
-2.  **Save the Image:** Download the image and save it as `nerv-background.png` inside the icons
+2.  **Save the Image:** Download the image and save it as `evangelion-background.png` inside the icons
 3.  **Reload Extension:** Go to `about:debugging#/runtime/this-firefox` in Firefox, find "NervGit", and click "Reload".
 4.  **Refresh GitHub:** Refresh any open GitHub pages to see your new background.
 
